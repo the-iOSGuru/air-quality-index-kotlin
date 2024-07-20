@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">AQIAndroid</string>
+<string name="api_token_missing">API token is missing. Please check your configuration.</string>
+<string name="error_occurred">An error occurred: %1$s</string>
+<string name="location_permission_required">Location permissions are required to use this feature.</string>
+<string name="current_location">Current Location: %1$s %2$s</string>
+<string name="station_name">Station name: %1$s</string>
+<string name="api_base_url">api.waqi.info</string>
+<string name="instructions_string">"Green - Good, Yellow - Moderate, Orange - Unhealthy for Sensitive Groups, Red - Unsafe"</string>
+<string name="aqi_token">2db52b0fca8e210f725c089fabf15d1f2c10469c</string>
+</resources>
