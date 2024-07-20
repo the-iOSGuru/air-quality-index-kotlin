@@ -1,4 +1,4 @@
-package com.example.aqiandroid// NetworkManager.kt
+package com.example.aqiandroid
 import android.content.Context
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

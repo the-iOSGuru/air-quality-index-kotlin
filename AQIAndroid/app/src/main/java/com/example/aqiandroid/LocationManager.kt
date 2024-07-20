@@ -1,4 +1,3 @@
-// LocationManager.kt
 package com.example.aqiandroid
 import android.content.Context
 import android.location.Location
